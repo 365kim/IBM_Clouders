@@ -1,4 +1,5 @@
-[__Free Course__: IBM Cloud Core](https://cognitiveclass.ai/badges/cloud-core)
+[__Free Course__: IBM Cloud Core](https://cognitiveclass.ai/badges/cloud-core) <br>
+[__Free Cloud Service__: IBM Cloud Object Storage](https://cocl.us/objectstorage_cc_cc0101en)
 
 ## :cloud: Course Syllabus
 - Module 1: [Overview of Cloud Computing](./1_Overview.md)
@@ -7,7 +8,7 @@
 - Module 4: [Components of Cloud Computing](./4_Components.md)
 - Module 5: [Cloud Computing Storage and Content Delivery Networks](./5_Storage_and_Content_Delivery_Networks.md)
 - Module 6: [Emergent Trends, Cloud Native, DevOps, and Application Modernization](./6_Emergent_Trends.md)
-- [Final Exam](./7_Final_Exam)
+- [Final Exam](./7_Final_Exam.md)
 <br>
 
 ## :cloud: Course Overview
