@@ -1,3 +1,5 @@
+[Back to Syllabus](./README.md#course-syllabus)
+
 ## :cloud: Learning Objectives
 - Define __Cloud Computing__
 - Describe the __essential characteristics__ of cloud computing
@@ -109,3 +111,6 @@ with products and services <p><img src="https://user-images.githubusercontent.co
   ▷ Diversity of standardization in how the constantly evolving technologies integrate and interoperate.
   ▶ The speed with which applications can be up and running on the cloud versus months on traditional platforms, means enterprises can experiment, fail fast, learn, and course correct without setting them back significantly.
   ```
+<br>
+
+[Go to Next Module](./2_Cloud_Adoption.md)
