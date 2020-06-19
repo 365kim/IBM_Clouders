@@ -23,6 +23,5 @@
 - Graded Quiz(50%, no time limit) + Final Exam(50%, 1-hour time limit)
 <br>
 
-## :cloud: Introduction to Cloud
-- Just the public cloud service market expected to grow to 331.2 billion by 2022.
-<p><img src="https://user-images.githubusercontent.com/60066472/85094821-b0a20480-b22a-11ea-944b-59c739bb7a04.PNG" width="500"></p>
+## :cloud: Certificate
+![certificate](https://user-images.githubusercontent.com/60066472/85154490-7bc99800-b292-11ea-9fd5-f5f78addd1e6.PNG)
