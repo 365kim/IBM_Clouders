@@ -24,13 +24,13 @@
 
 ## :cloud: File Storage
 - [Transcript](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/xblock/block-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@video+block@ec771ed5b5c2480f8b8b17f16fc69ba2/handler/transcript/download) / [Video](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1/courseware/d66368f99881453faeaa1458eeaefe4f/c1a70a8950ca468098b9d3ad7595d69a/?child=first)
-- must be attached to a compute node before it can be accessed and have data stored on it.
 - __File Storage__
-    - physical disks are contained in a specialised piece of hardware, connected to the compute node
+    - must be attached to a compute node before it can be accessed and have data stored on it.
+    - physical disks are contained in a specialised piece of hardware, connected to the compute node.
 - __NFS (Network File System)__
     - storage is connected to compute nodes over a standard ethernet network.
     - speeds vary based on network traffic
-- IOPS (Input/Output Operations Per Second)
+- __IOPS__ _(Input/Output Operations Per Second)_
     - the speed at which the isks can write and read data
     - the higher, the faster the speed of the underlying disk, and normally cost more.
     - low IOPS value can cause a bottleneck<p><img src="https://user-images.githubusercontent.com/60066472/85135080-74959080-b278-11ea-8d24-14b13eb96526.PNG" width="400"></p>
@@ -97,8 +97,8 @@
     - increases the speed
 - __Indirect Benefits__
     - reduces the amount of traffic that acually hits the server
-    - increase the uptime
-    - increase in security through obscurity<p><img src="https://user-images.githubusercontent.com/60066472/85138510-d86e8800-b27d-11ea-9259-f67d31be9604.PNG" width="400"></p>
+    - increases the uptime
+    - increases in security through obscurity<p><img src="https://user-images.githubusercontent.com/60066472/85138510-d86e8800-b27d-11ea-9259-f67d31be9604.PNG" width="400"></p>
 <br>
 
 ## :cloud: Module Summary
