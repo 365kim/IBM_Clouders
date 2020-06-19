@@ -2,10 +2,10 @@
 
 ## :cloud: Learning Objectives
 - Define __Cloud Computing__
-- Describe the __essential characteristics__ of cloud computing
-- Briefly recount the __history and evolution__ of cloud computing
-- Describe the key considerations that organizations can use as a guide while creating their __cloud strategy__
-- Describe the __key cloud service providers__ and their services
+- Describe the __Essential Characteristics__ of cloud computing
+- Briefly recount the __History and Evolution__ of cloud computing
+- Describe the key considerations that organizations can use as a guide while creating their __Cloud Strategy__
+- Describe the __Key Cloud Service Providers__ and their services
 - Create an account on a public cloud platform
 <br>
 
@@ -75,10 +75,9 @@ with products and services <p><img src="https://user-images.githubusercontent.co
 <br>
 
 ## :cloud: Hands-on Lab: Create a Cloud Account
-- Create an IBM Cloud Account: [link](Create a free account on IBM Cloud)
+- Create an IBM Cloud Account: [link](https://cocl.us/ibmcloud_cc_cc0101en)
 - [instruction](https://courses.cognitiveclass.ai/assets/courseware/v1/3e0986ec272fee2357f937d3e5f592b4/asset-v1:IBMDeveloperSkillsNetwork+CC0101EN+2020T1+type@asset+block/Lab1-Create_an_IBM_Cloud_Account-v1.pdf)
-- Screenshot
-<p><img src="https://user-images.githubusercontent.com/60066472/85099435-5a3bc280-b238-11ea-82b5-ef262218e6f2.PNG" width="400"></p>
+- Screenshot <p><img src="https://user-images.githubusercontent.com/60066472/85099435-5a3bc280-b238-11ea-82b5-ef262218e6f2.PNG" width="600"></p>
 <br>
 
 ## :cloud: Module Summary
