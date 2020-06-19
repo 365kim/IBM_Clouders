@@ -153,7 +153,3 @@
     ▶ By fully automating the infrastructure installation process in a way that is documented, repeatable, verifiable, and traceable
     ▷ DevOps best practices eliminate the need to provision servers, build middleware, and install application code
     ```
-<br>
-
-## :cloud: Certificate
-![certificate](https://user-images.githubusercontent.com/60066472/85154490-7bc99800-b292-11ea-9fd5-f5f78addd1e6.PNG)
